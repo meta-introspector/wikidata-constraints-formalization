@@ -1,0 +1,3 @@
+[submodule "experiment_data"]
+	path = experiment_data
+	url = /mnt/data1/git/solana.solfunmeme.com/experiment_data.git
